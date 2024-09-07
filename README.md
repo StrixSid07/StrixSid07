@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm **Siddharth Sutariya**, a dedicated fullstack developer from India, and the co-founder of **Genius Graphics and Infotech**. Alongside my friend **Meet Thakkar**, we specialize in delivering top-notch **Graphics Design**, **Interactive Web Applications**, and **Websites**. We're passionate about crafting innovative solutions that blend creativity with cutting-edge technology.
+I'm **Siddharth Sutariya**, a dedicated fullstack developer from India, and the co-founder of **Genius Graphics and Infotech**. Alongside my friend **Mit Thakkar**, we specialize in delivering top-notch **Graphics Design**, **Interactive Web Applications**, and **Websites**. We're passionate about crafting innovative solutions that blend creativity with cutting-edge technology.
 
 ---
 
