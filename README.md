@@ -1,175 +1,123 @@
-<h1 align="center">Hi 👋, I'm Siddharth Sutariya</h1>
-<h3 align="center">A passionate Fullstack Developer and Co-founder of Genius Graphics and Infotech</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=strixsid07&label=Profile%20views&color=0e75b6&style=flat" alt="strixsid07" />
-</p>
+  <img src="./assets/veltrixx-logo.svg" alt="Veltrixx Technologies" width="520"/>
 
----
+  <br/><br/>
 
-### 🚀 About Me
+  # Siddharth Sutariya
+  ### Founder & Systems Architect at [Veltrixx Technologies](https://veltrixxtechnologies.com)
 
-I'm **Siddharth Sutariya**, a dedicated fullstack developer from India, and the co-founder of **Genius Graphics and Infotech**. Alongside my friend **Mit Thakkar**, we specialize in delivering top-notch **Graphics Design**, **Interactive Web Applications**, and **Websites**. We're passionate about crafting innovative solutions that blend creativity with cutting-edge technology.
+  <p align="center">
+    <a href="https://veltrixxtechnologies.com"><img src="https://img.shields.io/badge/Website-veltrixxtechnologies.com-037FDC?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="mailto:contact@veltrixxtechnologies.com"><img src="https://img.shields.io/badge/Contact-contact%40veltrixxtechnologies.com-1A253E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/StrixSid07"><img src="https://img.shields.io/badge/GitHub-StrixSid07-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://komarev.com/ghpvc/?username=strixsid07&label=Profile%20Views&color=037FDC&style=flat-square" alt="Profile Views" />
+  </p>
 
----
-
-### 💼 About Genius Graphics and Infotech
-
-At **Genius Graphics and Infotech**, we offer:
-
-- **Graphics Design**: Creating visually appealing and engaging posts for various platforms.
-- **Interactive Web Applications**: Developing dynamic and responsive web applications tailored to client needs.
-- **Web Development**: Building modern, responsive websites that help businesses establish a strong online presence.
-
-We're committed to excellence and aim to turn our clients' ideas into reality through meticulous design and robust development.
+</div>
 
 ---
 
-### 🌐 Connect with Me:
+### Overview
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-Contact-yellow)](mailto:your.email@example.com)
+Fullstack and Distributed Systems Engineer serving as Founder and Systems Architect at **Veltrixx Technologies**. Focused on engineering scalable enterprise platforms, event-driven architectures, and high-performance web systems built for throughput, fault-tolerance, and sub-second execution.
+
+* **Organization:** [Veltrixx Technologies](https://veltrixxtechnologies.com) - Enterprise web platforms, scalable SaaS backends, and distributed systems.
+* **Core Domains:** High-throughput backend services, event-driven microservices, stateful distributed workflows, and modern web architectures.
+* **Engineering Standards:** Strict type-safety, zero-trust security postures, domain-driven design, and deterministic automated testing.
 
 ---
 
-### 🛠️ Languages and Tools:
+### Systems Architecture & Core Competencies
 
+```text
+Veltrixx Engineering Competencies
+├── Distributed Systems & Services
+│   ├── High-Throughput HTTP & RPC Handlers (Go, Chi, pgx, Goroutines)
+│   ├── Stateful Distributed Workflows & Sagas (Temporal SDK)
+│   └── Event Streaming & Real-Time Pub/Sub (Redis, WebSockets)
+├── High-Performance Web Applications
+│   ├── Next.js 15+ (App Router, Server Components, Streaming SSR)
+│   ├── React 19, Strict TypeScript Systems & Component Architecture
+│   └── 60fps Micro-Interactions (GSAP, Tailwind CSS v4, Lenis)
+├── Data Architecture & Persistence
+│   ├── ACID Relational Systems (PostgreSQL, Drizzle ORM, Automated Migrations)
+│   ├── In-Memory Caching & Distributed Locks (Redis)
+│   └── Scalable Document Stores (MongoDB)
+└── Cloud Infrastructure & Platform Engineering
+    ├── Containerization & Production Environments (Docker, Docker Compose)
+    ├── Transactional Messaging Infrastructure (AWS SES)
+    └── Reverse Proxies, Linux Systems Administration & CI/CD Pipelines
+```
+
+---
+
+### Technical Stack
+
+#### Frontend & UI Engineering
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Next.js%2015+-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS%20v4-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/GraphQL%20%2F%20Apollo-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+#### Backend & Distributed Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" alt="Temporal" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+#### Databases & In-Memory Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### DevOps, Cloud & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### Contribution Activity & GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StrixSid07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A2FF&icon_color=00A2FF&text_color=c9d1d9" alt="GitHub Metrics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrixSid07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A2FF&text_color=c9d1d9" alt="Top Languages" height="165" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=strixsid07&show_icons=true&locale=en&layout=compact" alt="strixsid07" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrixSid07&theme=tokyonight&hide_border=true&background=0d1117&ring=00A2FF&fire=00A2FF&currStreakLabel=00A2FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strixsid07&show_icons=true&locale=en" alt="strixsid07" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrixSid07&theme=tokyonight&bg_color=0d1117&color=00A2FF&line=00A2FF&point=ffffff&hide_border=true" alt="Contribution Graph" width="98%" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+### Security, Confidentiality & Compliance Standards
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=strixsid07" alt="strixsid07" />
-  </a>
-</p>
+All proprietary enterprise codebases, client transaction records, and institutional platforms developed under Veltrixx Technologies are maintained within secured private environments. Public metrics and telemetry displayed on this profile reflect live contribution velocity and technical standards without disclosing private repository names, internal endpoints, or proprietary architecture specifications.
+
+---
+
+<div align="center">
+  <sub>Siddharth Sutariya &bull; Veltrixx Technologies</sub>
+</div>

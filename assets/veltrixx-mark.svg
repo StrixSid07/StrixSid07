@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!--
+      VELTRIXX SIGNATURE OPTICAL LENS FLARE GRADIENT
+      Origin: Centered exactly at the intersection junction of the 'X' (366.5, 252.0)
+      Dynamics: Luminous specular flare core (#FFFFFF / #C2F3FF) blooming into 
+                Electric Flare Blue (#037FDC), fading seamlessly into Brand Navy (#1A253E).
+    -->
+    <radialGradient id="vx-flare-gradient" cx="366.5" cy="252.0" r="215.0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="5%" stop-color="#C2F3FF"/>
+      <stop offset="12%" stop-color="#52D0FF"/>
+      <stop offset="22%" stop-color="#00A2FF"/>
+      <stop offset="38%" stop-color="#037FDC"/>
+      <stop offset="56%" stop-color="#075CA8"/>
+      <stop offset="74%" stop-color="#0D3B6A"/>
+      <stop offset="90%" stop-color="#1A253E"/>
+      <stop offset="100%" stop-color="#1A253E"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Mathematically Reconstructed Crisp VX Mark (100% Vector, G2 Tangency, Zero Micro-wobbles) -->
+  <path id="veltrixx-vx-mark" fill="url(#vx-flare-gradient)" d="
+    M 43.081 157.179
+    L 89.722 157.179
+    C 103.778 157.179 116.548 164.150 124.413 175.292
+    L 181.595 256.297
+    L 240.835 175.896
+    C 261.989 147.670 298.261 147.277 320.116 175.048
+    L 352.067 216.641
+    L 384.128 176.670
+    C 396.356 159.730 408.940 156.984 424.633 156.984
+    L 471.014 156.984
+    L 462.962 169.909
+    L 397.116 250.793
+    C 392.109 256.784 391.637 260.717 396.662 267.015
+    L 462.422 352.265
+    C 463.995 354.310 461.321 357.362 454.570 357.362
+    L 415.250 357.371
+    C 400.918 356.984 389.278 351.479 380.724 339.552
+    L 352.174 303.538
+    C 343.661 313.570 335.009 322.221 328.181 332.140
+    C 315.032 351.322 297.257 357.535 274.361 357.535
+    L 238.054 357.535
+    L 308.083 266.288
+    C 312.516 261.189 313.302 257.177 308.703 251.751
+    L 281.851 218.469
+    L 180.215 357.310
+    L 41.000 160.597
+    Z
+  "/>
+</svg>
