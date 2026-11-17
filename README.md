@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="./assets/veltrixx-logo.svg" alt="Veltrixx Technologies" width="520"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrixSid07/StrixSid07/main/assets/veltrixx-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StrixSid07/StrixSid07/main/assets/veltrixx-logo-light.svg">
+    <img src="https://raw.githubusercontent.com/StrixSid07/StrixSid07/main/assets/veltrixx-logo-light.svg" alt="Veltrixx Technologies" width="520">
+  </picture>
 
   <br/><br/>
 
@@ -9,8 +13,8 @@
 
   <p align="center">
     <a href="https://veltrixxtechnologies.com"><img src="https://img.shields.io/badge/Website-veltrixxtechnologies.com-037FDC?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="mailto:contact@veltrixxtechnologies.com"><img src="https://img.shields.io/badge/Contact-contact%40veltrixxtechnologies.com-1A253E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/StrixSid07"><img src="https://img.shields.io/badge/GitHub-StrixSid07-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:contact@veltrixxtechnologies.com"><img src="https://img.shields.io/badge/Contact-contact%40veltrixxtechnologies.com-037FDC?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/StrixSid07"><img src="https://img.shields.io/badge/GitHub-StrixSid07-1A253E?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://komarev.com/ghpvc/?username=strixsid07&label=Profile%20Views&color=037FDC&style=flat-square" alt="Profile Views" />
   </p>
 
@@ -97,17 +101,26 @@ Veltrixx Engineering Competencies
 
 ### Contribution Activity & GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StrixSid07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A2FF&icon_color=00A2FF&text_color=c9d1d9" alt="GitHub Metrics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrixSid07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A2FF&text_color=c9d1d9" alt="Top Languages" height="165" />
-</div>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrixSid07&theme=tokyonight&hide_border=true&background=0d1117&ring=00A2FF&fire=00A2FF&currStreakLabel=00A2FF" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/StrixSid07?style=flat-square&logo=github&label=GitHub%20Followers&color=037FDC&labelColor=1A253E" alt="Followers" />
+  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-037FDC?style=flat-square&labelColor=1A253E" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Core%20Stack-Go%20%7C%20Next.js%2015%20%7C%20Postgres-037FDC?style=flat-square&labelColor=1A253E" alt="Core Stack" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrixSid07&theme=tokyonight&bg_color=0d1117&color=00A2FF&line=00A2FF&point=ffffff&hide_border=true" alt="Contribution Graph" width="98%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=StrixSid07&theme=tokyonight&hide_border=true&background=0d1117&ring=00A2FF&fire=00A2FF&currStreakLabel=00A2FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=StrixSid07&theme=default&hide_border=true&background=FFFFFF&ring=037FDC&fire=037FDC&currStreakLabel=037FDC">
+    <img src="https://streak-stats.demolab.com/?user=StrixSid07&theme=default&hide_border=true" alt="GitHub Streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StrixSid07&theme=tokyonight&bg_color=0d1117&color=00A2FF&line=00A2FF&point=ffffff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StrixSid07&theme=github-light&bg_color=ffffff&color=037FDC&line=037FDC&point=0A192F&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrixSid07&theme=github-light&bg_color=ffffff&color=037FDC&line=037FDC&point=0A192F&hide_border=true" alt="Contribution Graph" width="98%">
+  </picture>
 </p>
 
 ---
